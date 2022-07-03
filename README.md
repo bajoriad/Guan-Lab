@@ -1,6 +1,7 @@
 # My Role
 
-
+1. Adding a transformer block to the existing U-Net framework to increase the efficiency of the predictive model.
+2. Evaluate the models based on their mean square error and correlation coefficient.
 
 ## Ocelot: Improved Epigenome Imputation Reveals Asymmetric Predictive Relationships Across Histone Modifications
 
